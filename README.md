@@ -1,5 +1,7 @@
 # flutterlab
 
+[![Codemagic build status](https://api.codemagic.io/apps/5d2226da8a8d5820d277e283/5d2226da8a8d5820d277e282/status_badge.svg)](https://codemagic.io/apps/5d2226da8a8d5820d277e283/5d2226da8a8d5820d277e282/latest_build)
+
 A new Flutter project.
 
 ## Getting Started
